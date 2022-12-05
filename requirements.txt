@@ -1,0 +1,8 @@
+asyncstdlib
+black
+datetime
+jsonschema
+pylint
+pyyaml
+telethon
+yamllint
